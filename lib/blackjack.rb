@@ -25,7 +25,7 @@ end
 end
 
 def initial_round
-  puts deal card + deal card
+  puts (deal card + deal card)
 end
 
 def hit?
