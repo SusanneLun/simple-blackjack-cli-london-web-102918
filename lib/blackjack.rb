@@ -7,7 +7,6 @@ def deal_card
 end
 
 def display_card_total(x)
-  x = y + z
   puts x
 end
 
