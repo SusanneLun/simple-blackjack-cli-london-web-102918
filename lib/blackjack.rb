@@ -25,7 +25,9 @@ end
 end
 
 def initial_round
-  # code #initial_round here
+  deal card
+  deal card 
+  
 end
 
 def hit?
