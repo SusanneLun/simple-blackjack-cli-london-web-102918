@@ -25,8 +25,10 @@ end
 end
 
 def initial_round
-  sum = #deal card + #deal card
-  puts sum
+  if deal card + deal card > 21
+    puts end_game
+  else
+  puts deal card + deal card
 end
 
 def hit?
